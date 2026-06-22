@@ -38,7 +38,7 @@ Simplifier l’information tout en conservant l’essentiel de la variance.
 - Analyse des axes principaux
 
 ### 📌 Visuels :
-![Eboulis des valuers propres](images/eboulis_valeurs_propres.jpg)
+![Eboulis des valeurs propres](images/eboulis_valeurs_propres.jpg)
 ![Cercle des corrélations](images/cercles_corr_f1_f2.jpg)
 
 ---
@@ -109,6 +109,11 @@ Ce projet illustre une démarche complète de data analysis :
 - Recommandation business
 
 ---
+
+## Documents
+- Présentation : 'presentation_projet_export_international.pdf'
+- Notebook nettoyage : 'preparation_nettoyage.ipynb'
+- Notebook clustering : clustering_visualisation.ipynb'
 
 ## 👤 Auteur
 Yoann De Cler
