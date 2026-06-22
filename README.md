@@ -38,8 +38,8 @@ Simplifier l’information tout en conservant l’essentiel de la variance.
 - Analyse des axes principaux
 
 ### 📌 Visuels :
-![Eboulis des valuers propres](eboulis_valeurs_propres.jpg)
-![Cercle des corrélations](cercles_corr_f1_f2.jpg)
+![Eboulis des valuers propres](images/eboulis_valeurs_propres.jpg)
+![Cercle des corrélations](images/cercles_corr_f1_f2.jpg)
 
 ---
 
@@ -53,8 +53,8 @@ Regrouper les pays selon leurs caractéristiques communes.
 - Classification hiérarchique (CAH)
 
 ### 📌 Visuels :
-![CAH](dendrogramme.jpg)
-![K-means](kmeans_3d.jpg)
+![CAH](images/dendrogramme.jpg)
+![K-means](images/kmeans_3d.jpg)
 
 ---
 
@@ -68,7 +68,7 @@ Créer un classement final basé sur des critères pondérés.
 - Calcul d’un score global d’attractivité
 
 ### 📌 Visuels :
-![Scoring pays](scoring_pays.png)
+![Scoring pays](images/scoring_pays.png)
 
 ---
 
@@ -84,7 +84,7 @@ Les pays ont été classés selon leur score d’attractivité afin de définir 
   - Marchés peu prioritaires
 
 ### 📌 Visuel clé :
-![Carte du monde des recommandations](map_monde.png)
+![Carte du monde des recommandations](images/map_monde.png)
 
 ---
 
