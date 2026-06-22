@@ -55,7 +55,6 @@ Regrouper les pays selon leurs caractéristiques communes.
 ### 📌 Visuels :
 ![CAH](dendrogramme.jpg)
 ![K-means](kmeans_3d.jpg)
-![Tableau des clusters](tableau_clusters.png)
 
 ---
 
