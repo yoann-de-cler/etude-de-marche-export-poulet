@@ -24,6 +24,8 @@ Identifier les pays les plus attractifs pour l’exportation de volaille à part
 - Application d’une Analyse en Composantes Principales (ACP)
 - Analyse des cercles de corrélation
 
+![Eboulis des valeurs propres](eboulis_valeurs_propres.pdf)
+
 ### 4. Segmentation des pays
 - Clustering (K-means et CAH)
 - Regroupement des pays selon leur potentiel de marché
