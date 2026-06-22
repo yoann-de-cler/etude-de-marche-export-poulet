@@ -84,7 +84,7 @@ Les pays ont été classés selon leur score d’attractivité afin de définir 
   - Marchés peu prioritaires
 
 ### 📌 Visuel clé :
-[Carte du monde des recommandations](map_monde.png)
+![Carte du monde des recommandations](map_monde.png)
 
 ---
 
